@@ -12,4 +12,6 @@ modificacion 2.1.1 desde VSC A2 agregado m
 
 modificacion 2.2 desde VSC A2 agregado modificado
 
+modificacion 2.3 desde VSC A2 desde rama_vcs
+
 modificacion 2 desde VSC A2 merge
