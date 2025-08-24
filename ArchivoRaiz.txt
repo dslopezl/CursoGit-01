@@ -2,10 +2,12 @@ archivo raiz
 
 otra modificacion 2
 
+otra modificacion dentro de main
+
 modificacion para la rama_prueba
 
+modificacion desde VSC 1
 
-
-
+modificacion desde VSC 2
 
 modificacion desde VCS 3
