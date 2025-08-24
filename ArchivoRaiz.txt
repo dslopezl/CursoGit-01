@@ -10,6 +10,8 @@ modificacion desde VSC 1
 
 modificacion desde VSC 2
 
-modificacion desde VCS 3
+modificacion desde VCS 3 merge
 
-modificacion desde VCS 4 rama_prueba
+modificacion desde VCS 4 merge main rama_prueba
+
+modificacion desde VCS 5 merge
