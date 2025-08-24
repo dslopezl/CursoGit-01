@@ -4,4 +4,6 @@ modificiacion a este archivo
 
 modificacion desde VSC
 
-modificacion 2 desde VSC A1
+modificacion 1 desde VSC A1
+
+modificacion 2 desde VSC A1 agregado

@@ -4,4 +4,6 @@ modificacion de pruebas 4
 
 modificacion desde VSC
 
-modificacion 2 desde VSC A2
+modificacion 1 desde VSC A2
+
+modificacion 2 desde VSC A2 merge
